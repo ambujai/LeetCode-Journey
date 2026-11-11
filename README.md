@@ -29,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ambujai/LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ambujai/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ambujai/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
