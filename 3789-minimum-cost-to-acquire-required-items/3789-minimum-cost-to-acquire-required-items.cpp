@@ -11,7 +11,6 @@ public:
             long long chooseMin = need1 < need2? need1 : need2;
             long long total1 = chooseMax * costBoth;
             long long totalMin = chooseMin * costBoth;
-            long long totalMax = chooseMax * costBoth;
             long long result;
 
             if (need1==need2){
@@ -21,14 +20,13 @@ public:
             else if(need1 > need2){
                 long long diff = need1 - need2;
                 long long total2 = totalMin + diff * cost1;
-                long long total3 = totalMax + diff * cost1;
-                result = std::min({total, total1, total2, total3});
+                result = std::min({total, total1, total2});
                 return result;
             }
             else{
                 long long diff = need2 - need1;
                 long long total2 = totalMin + diff * cost2;
-                long long total3 = totalMax + diff * cost2;
+
                 result = std::min({total, total1, total2});
                 return result;
             }
