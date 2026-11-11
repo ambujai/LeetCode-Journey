@@ -19,14 +19,12 @@ class Solution:
             elif need1 > need2:
                 diff = need1 - need2
                 total3 = toChooseMin * costBoth + diff * cost1
-                total4 = toChooseMax * costBoth + diff * cost1
-                return min(total1, total2, total3, total4)
+                return min(total1, total2, total3)
             
             elif need2 > need1:
                 diff = need2 - need1
                 total3 = toChooseMin * costBoth + diff * cost2
-                total4 = toChooseMax * costBoth + diff * cost2
-                return min(total1, total2, total3, total4)
+                return min(total1, total2, total3)
             
 
         
