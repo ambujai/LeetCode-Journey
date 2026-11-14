@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ambujai/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0665-non-decreasing-array](https://github.com/ambujai/LeetCode-Journey/tree/master/0665-non-decreasing-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ambujai/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
