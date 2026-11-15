@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ambujai/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ambujai/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ambujai/LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ambujai/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0665-non-decreasing-array](https://github.com/ambujai/LeetCode-Journey/tree/master/0665-non-decreasing-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ambujai/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ambujai/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
