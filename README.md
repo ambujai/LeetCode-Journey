@@ -50,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ambujai/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ambujai/LeetCode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ambujai/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ambujai/LeetCode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
