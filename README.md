@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ambujai/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ambujai/LeetCode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ambujai/LeetCode-Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Trie
 |  |
 | ------- |
