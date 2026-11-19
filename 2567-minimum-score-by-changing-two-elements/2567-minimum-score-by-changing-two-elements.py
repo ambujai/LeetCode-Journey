@@ -9,6 +9,6 @@ class Solution:
         b = nums[-3] - nums[0]
         c = nums[-1] - nums[2]
 
-        high = min([a,b,c])
+        high = min(a,b,c)
 
         return high + low
