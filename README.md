@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ambujai/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ambujai/LeetCode-Journey/tree/master/0027-remove-element) |
 | [0665-non-decreasing-array](https://github.com/ambujai/LeetCode-Journey/tree/master/0665-non-decreasing-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ambujai/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ambujai/LeetCode-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ambujai/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ambujai/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ambujai/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ambujai/LeetCode-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ambujai/LeetCode-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ambujai/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ambujai/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
