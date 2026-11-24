@@ -1,7 +1,6 @@
 class Solution:
     def maxLength(self, nums: List[int]) -> int:
         result = 0
-        ans = 0
         for i in range(len(nums)):
             for j in range(i+1,len(nums)+1):
                 portion = nums[i:j]
