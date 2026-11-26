@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ambujai/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/ambujai/LeetCode-Journey/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ambujai/LeetCode-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ambujai/LeetCode-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ambujai/LeetCode-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ambujai/LeetCode-Journey/tree/master/3360-stone-removal-game) |
 ## Sorting
 |  |
 | ------- |
