@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ambujai/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ambujai/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ambujai/LeetCode-Journey/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ambujai/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0665-non-decreasing-array](https://github.com/ambujai/LeetCode-Journey/tree/master/0665-non-decreasing-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ambujai/LeetCode-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ambujai/LeetCode-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ambujai/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ambujai/LeetCode-Journey/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
